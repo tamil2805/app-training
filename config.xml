@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.otpam.appname" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>App Name</name>
-    <description>
+<widget id="com.infitt.solpalagu" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>SOLPALAGU</name>
+    This app ease students to understand the tamil letters
      Mobile App Training
     </description>
     <author email="info@otpam.com" href="http://otpam.com">
